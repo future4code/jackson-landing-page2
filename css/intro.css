@@ -1,0 +1,37 @@
+*{
+margin: 0 px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+
+#intro{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+#intro > article > img{
+    margin: 10%;
+ margin-left: 20%;
+max-width: 100%;
+
+ 
+
+}
+
+#intro > .img{
+   width: 60%;
+}
+
+#intro > .texto{
+    width: 40%;
+    align-items: center;
+      
+}
+
+#intro > h2{
+    margin: 200px ;
+}
