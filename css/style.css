@@ -45,3 +45,33 @@ header > ul > li > a {
     text-decoration: none;
     padding: 10px;
 }
+
+/* Ofertas */
+#ofertas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ofertas > article {
+
+}
+
+#ofertas > article > ul {
+    list-style: none;
+    display: flex;
+}
+
+#ofertas > article > ul > li {
+    margin: 10px;
+}
+
+.ofertas-img {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ofertas-img > li {
+    flex: 1 1 200px
+}
