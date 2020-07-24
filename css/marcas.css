@@ -7,13 +7,13 @@
     box-sizing: border-box;
 }
 
-.Marcas > ul {
+.marcas > ul {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
 
 }
 
-.Marcas > ul > li {
+.marcas > ul > li {
     flex: 1 1 200px;
 }
